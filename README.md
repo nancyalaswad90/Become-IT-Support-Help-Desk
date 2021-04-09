@@ -19,3 +19,6 @@ These Total Seminars courses cover the topics tested on the CompTIA A+ certifica
 - Learn about virtualization, desktop imaging, and deployment.
 
 - Prepare for the CompTIA A+ exam.
+
+
+-----------------------------
