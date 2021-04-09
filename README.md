@@ -24,13 +24,9 @@ These Total Seminars courses cover the topics tested on the CompTIA A+ certifica
 -----------------------------
 
 
-.
-
----------------------------------------
 
 
-
-## First Course : [
+## First Course : [CompTIA A+ (220-1001 and 220-1002) Cert Prep: The Basics](https://www.linkedin.com/learning/comptia-a-plus-220-1001-and-220-1002-cert-prep-the-basics/how-to-use-this-course?contextUrn=urn%3Ali%3AlyndaLearningPath%3A5ccb3ee3498e260c1c863895)
 
 
 ### Course details
