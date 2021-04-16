@@ -77,12 +77,9 @@ We are a CompTIA Partner. As such, we are able to offer CompTIA exam vouchers at
 ### Course details
 
 
+CompTIA A+ is one of the most widely recognized credentials for operational and support technicians, and is a springboard to a career in IT. CompTIA A+ Cert Prep is a comprehensive series designed to help you prepare for and pass the qualifying exams. This course covers topics from the CompTIA A+ Core 1 (220-1001) exam, including hardware basics and best practices for safety, communication, and professionalism. Instructor Mike Meyers reviews the tools of the trade, troubleshooting tips, and the anatomy of a typical PC.
 
 
-
-
-
-###  Learning objectives
 
 
 
@@ -91,6 +88,9 @@ We are a CompTIA Partner. As such, we are able to offer CompTIA exam vouchers at
 ###  Skills covered
 
 
+- Help Desk Implementation
+
+- CompTIA
 
 
 
