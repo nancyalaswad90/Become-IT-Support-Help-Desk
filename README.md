@@ -68,7 +68,9 @@ We are a CompTIA Partner. As such, we are able to offer CompTIA exam vouchers at
 
 
 
-## Second Course : [
+## Second Course : [CompTIA A+ (220-1001) Cert Prep 1: The Basics](https://www.linkedin.com/learning/comptia-a-plus-220-1001-cert-prep-1-the-basics/about-this-course?contextUrn=urn%3Ali%3AlyndaLearningPath%3A5ccb3ee3498e260c1c863895)
+
+
 
 
 
