@@ -93,8 +93,13 @@ CompTIA A+ is one of the most widely recognized credentials for operational and 
 - CompTIA
 
 
+.
 
-> !
+> ![he Basics.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1618587995/he_Basics.png)
+> 
+
+.
+
 
 
 ----------------------------------
