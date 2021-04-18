@@ -183,6 +183,16 @@ Quickly troubleshooting power supplies
 
 
 
+
+.
+
+
+> ![444- Cert PrepCore Hardware.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1618779156/444-_Cert_PrepCore_Hardware.png)
+> 
+
+.
+
+
 ----------------------------------
 
 
