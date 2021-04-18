@@ -161,6 +161,16 @@ We are a CompTIA Partner. As such, we are able to offer CompTIA exam vouchers at
 
 ###  Learning objectives
 
+Troubleshooting firmware
+Installing a motherboard
+Basic electrical terminology
+Mounting and choosing a power supply
+Cooling your PC
+Quickly troubleshooting power supplies
+
+
+
+
 ###  Skills covered
 
 
