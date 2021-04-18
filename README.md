@@ -136,7 +136,10 @@ We are a CompTIA Partner. As such, we are able to offer CompTIA exam vouchers at
 
 .
 
+> ![33333- Microprocessing and RAM.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1618779156/33333-_Microprocessing_and_RAM.png)
+> 
 
+.
 
 ----------------------------------
 
