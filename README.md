@@ -147,6 +147,16 @@ We are a CompTIA Partner. As such, we are able to offer CompTIA exam vouchers at
 
 ### Course details
 
+The CompTIA A+ (220-1001): Cert Prep series is a comprehensive 10-part series designed to help IT professionals prepare for the CompTIA A+ Core 1 (220-1001) exam, which focuses on critical IT support tasks and essential troubleshooting skills. In this course—the third installment in the series—CompTIA expert Mike Meyers goes over essential hardware components, devices, and processes. Learn all about firmware, including how to use a system’s BIOS to make troubleshooting easier. Plus, Mike covers how to work with motherboards, choose and troubleshoot power supplies, and more.
+
+This Total Seminars course covers the exam certification topics. For information on additional study resources—including practice tests, lab simulations, books, and discounted exam vouchers—visit totalsem.com/linkedin. LinkedIn Learning members receive special pricing.
+
+This course was created by Total Seminars. We are pleased to offer this training in our library.
+
+We are a CompTIA Partner. As such, we are able to offer CompTIA exam vouchers at a 10% discount. For more information on how to obtain this discount, please download these PDF instructions.
+
+
+
 
 
 ###  Learning objectives
