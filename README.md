@@ -104,7 +104,7 @@ CompTIA A+ is one of the most widely recognized credentials for operational and 
 
 ----------------------------------
 
-## Third Course : [
+## Third Course : [CompTIA A+ (220-1001) Cert Prep 2: Microprocessing and RAM](https://www.linkedin.com/learning/comptia-a-plus-220-1001-cert-prep-2-microprocessing-and-ram/welcome-to-this-course?contextUrn=urn%3Ali%3AlyndaLearningPath%3A5ccb3ee3498e260c1c863895)
 
 
 
