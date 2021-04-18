@@ -110,12 +110,31 @@ CompTIA A+ is one of the most widely recognized credentials for operational and 
 
 ### Course details
 
+Are you looking to pass the CompTIA A+ (220-1001) exam for the first time or refresh your IT skills? If so, then this series is for you. The CompTIA A+ (220-1001): Cert Prep series is a comprehensive 10-part series designed to help IT professionals prepare for the CompTIA A+ Core 1 (220-1001) exam, which focuses on critical IT support tasks and essential troubleshooting skills. In this installment of the series, CompTIA expert Mike Meyers digs into the topics of microprocessing and RAM. Learn all about CPU speeds and cores, extensions, and sockets, as well as how to install a CPU and cool your PC. Plus, Mike covers RAM technologies and features, RAM capacity, and installing RAM.
+
+This Total Seminars course covers the exam certification topics. For information on additional study resources—including practice tests, lab simulations, books, and discounted exam vouchers—visit totalsem.com/linkedin. LinkedIn Learning members receive special pricing.
+
+This course was created by Total Seminars. We are pleased to offer this training in our library.
+
+We are a CompTIA Partner. As such, we are able to offer CompTIA exam vouchers at a 10% discount. For more information on how to obtain this discount, please download these PDF instructions.
+
+We are a CompTIA Partner. As such, we are able to offer CompTIA exam vouchers at a 10% discount. For more information on how to obtain this discount, please download these PDF instructions.
 
 
-###  Learning objectives
+
+
 
 ###  Skills covered
 
+
+- System Administration 
+
+- RAM 
+
+- CompTIA
+
+
+.
 
 
 
