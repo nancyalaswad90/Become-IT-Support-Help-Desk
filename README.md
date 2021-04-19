@@ -202,7 +202,18 @@ Quickly troubleshooting power supplies
 ## Fifth Course : [CompTIA A+ (220-1001) Cert Prep 4: Storage and Peripherals](https://www.linkedin.com/learning/comptia-a-plus-220-1001-cert-prep-4-storage-and-peripherals/introduction-to-storage-and-peripherals?contextUrn=urn%3Ali%3AlyndaLearningPath%3A5ccb3ee3498e260c1c863895)
 
 
+
+
 ### Course details
+
+
+CompTIA A+ (220-1001): Cert Prep is a comprehensive 10-part series designed to help IT professionals prepare for the CompTIA A+ Core 1 (220-1001) exam. A+ certification validates your mastery of critical IT support tasks and essential troubleshooting skills. In this course—the fourth installment in the series—CompTIA expert Mike Meyers goes over essential storage and peripheral drives, such as magnetic and solid-state drives, RAIDs, keyboards, cameras, and scanners. You can also learn about the different USB standards and how to configure USB connections. Finally, Mike explains how to install expansion cards to extend the capabilities of a PC.
+
+This Total Seminars course covers the exam certification topics. For information on additional study resources—including practice tests, lab simulations, books, and discounted exam vouchers—visit totalsem.com/linkedin. LinkedIn Learning members receive special pricing.
+
+This course was created by Total Seminars. We are pleased to offer this training in our library.
+
+We are a CompTIA Partner. As such, we are able to offer CompTIA exam vouchers at a 10% discount. For more information on how to obtain this discount, please download these PDF instructions.
 
 
 
