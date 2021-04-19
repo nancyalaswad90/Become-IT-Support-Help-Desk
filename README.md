@@ -220,11 +220,11 @@ We are a CompTIA Partner. As such, we are able to offer CompTIA exam vouchers at
 ###  Learning objectives
 
 
-Mass storage technologies
-Implementing mass storage with a RAID
-Understanding USB
-Connecting peripherals
-Using expansion cards
+- Mass storage technologies
+- Implementing mass storage with a RAID
+- Understanding USB
+- Connecting peripherals
+- Using expansion cards
 
 
 
