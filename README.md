@@ -199,7 +199,7 @@ Quickly troubleshooting power supplies
 ----------------------------------
 
 
-## Fifth Course : [
+## Fifth Course : [CompTIA A+ (220-1001) Cert Prep 4: Storage and Peripherals](https://www.linkedin.com/learning/comptia-a-plus-220-1001-cert-prep-4-storage-and-peripherals/introduction-to-storage-and-peripherals?contextUrn=urn%3Ali%3AlyndaLearningPath%3A5ccb3ee3498e260c1c863895)
 
 
 ### Course details
