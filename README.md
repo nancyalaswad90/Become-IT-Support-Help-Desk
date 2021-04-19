@@ -231,6 +231,8 @@ Using expansion cards
 
 ###  Skills covered
 
+- System AdministrationCompTIAStorage
+
 
 
 
