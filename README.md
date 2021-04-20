@@ -255,10 +255,17 @@ We are a CompTIA Partner. As such, we are able to offer CompTIA exam vouchers at
 
 
 
- ## Sixth Course : [
+ ## Sixth Course : [CompTIA A+ (220-1001) Cert Prep 5: Display Technologies](https://www.linkedin.com/learning/comptia-a-plus-220-1001-cert-prep-5-display-technologies/introduction-to-display-technology?contextUrn=urn%3Ali%3AlyndaLearningPath%3A5ccb3ee3498e260c1c863895)
+ 
+ 
+ 
 
 
 ### Course details
+
+
+CompTIA A+ is the leading entry-level, vendor-neutral certification for IT professionals. CompTIA A+ (220-1001): Cert Prep is a comprehensive 10-part series designed to help you prepare and pass the A+ Core 1 (220-1001) exam. This course—the fifth installment in the series—helps you study for exam objectives related to display technologies such as monitors, graphics cards, and projectors. CompTIA expert Mike Meyers also explains how to set up multiple monitors and troubleshoot display problems.
+
 
 
 
