@@ -282,7 +282,8 @@ CompTIA A+ is the leading entry-level, vendor-neutral certification for IT profe
 
 .
 
-> 
+>  ![cer666.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1618934365/cer666.png)
+
 
 .
 
