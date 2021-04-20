@@ -301,10 +301,21 @@ CompTIA A+ is the leading entry-level, vendor-neutral certification for IT profe
 Networking is a core competency for IT pros. Passing the CompTIA A+ Core 1 (220-1001) exam proves that you have mastered this key skill. This course—the sixth installment in the CompTIA A+ (220-1001): Cert Prep series—is designed to prepare you for the networking objectives of the A+ certification exam. It covers topics such as local and wide area networks (LANs and WANs), hubs and switches, and cables and connectors. Instructor Mike Meyers also discusses hexadecimal numbering and binary conversion, which are necessary for network addressing, masks, and keys.
 
 
-###  Learning objectives
 
 ###  Skills covered
 
+- CompTIA 
+
+- Network Administration
+
+
+.
+
+
+>
+
+
+.
 
 
 ----------------------------------
