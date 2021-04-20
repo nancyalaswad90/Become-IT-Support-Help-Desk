@@ -313,7 +313,7 @@ Networking is a core competency for IT pros. Passing the CompTIA A+ Core 1 (220-
 .
 
 
->
+> ![cer7777.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1618934375/cer7777.png)
 
 
 .
