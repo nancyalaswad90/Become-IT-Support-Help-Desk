@@ -291,7 +291,7 @@ CompTIA A+ is the leading entry-level, vendor-neutral certification for IT profe
 ----------------------------------
 
 
- ## Seventh Course : [
+ ## Seventh Course : [CompTIA A+ (220-1001) Cert Prep 6: Physical Networking - Physical networking](https://www.linkedin.com/learning/comptia-a-plus-220-1001-cert-prep-6-physical-networking/physical-networking?contextUrn=urn%3Ali%3AlyndaLearningPath%3A5ccb3ee3498e260c1c863895)
 
 
 ### Course details
