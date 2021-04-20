@@ -269,7 +269,7 @@ CompTIA A+ is the leading entry-level, vendor-neutral certification for IT profe
 
 
 
-###  Learning objectives
+
 
 ###  Skills covered
 
