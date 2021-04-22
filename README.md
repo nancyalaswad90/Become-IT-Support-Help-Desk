@@ -354,6 +354,11 @@ Repairing wireless connections
 
 .
 
+> ![cert8.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1619104989/cert8.png)
+> 
+
+.
+
 
 
 ----------------------------------
