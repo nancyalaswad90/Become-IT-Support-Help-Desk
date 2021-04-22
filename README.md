@@ -321,7 +321,7 @@ Networking is a core competency for IT pros. Passing the CompTIA A+ Core 1 (220-
 
 ----------------------------------
 
- ## Eighth Course : [
+ ## Eighth Course : [CompTIA A+ (220-1001) Cert Prep 7: Understanding Networking](https://www.linkedin.com/learning/comptia-a-plus-220-1001-cert-prep-7-understanding-networking/welcome?contextUrn=urn%3Ali%3AlyndaLearningPath%3A5ccb3ee3498e260c1c863895)
 
 
 
