@@ -334,14 +334,22 @@ CompTIA A+ (220-1001): Cert Prep is a comprehensive 10-part series designed to h
 ###  Learning objectives
 
 
-How TCP and IP work together
-Special IP addresses
-Port numbers
-Working with DNS
-Basic and advanced router configuration
-Troubleshooting networks
-Connecting to a Wi-Fi network
-Repairing wireless connections
+- How TCP and IP work together
+
+- Special IP addresses
+
+- Port numbers
+
+- Working with DNS
+
+- Basic and advanced router configuration
+
+- Troubleshooting networks
+
+- Connecting to a Wi-Fi network
+
+- Repairing wireless connections
+
 
 
 ###  Skills covered
