@@ -347,6 +347,14 @@ Repairing wireless connections
 ###  Skills covered
 
 
+- Wireless Networking
+
+- CompTIA
+
+
+.
+
+
 
 ----------------------------------
 
