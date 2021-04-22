@@ -1,7 +1,6 @@
 .
 
 
-# [Become-IT-Support-Help-Desk](https://www.linkedin.com/learning/paths/prepare-for-the-comptia-a-plus-certification-220-1001-and-220-1002?trk=lilblog_06-30-20_msft-announcement-reskilling-linkedin-learning_learning)
 
 
 
@@ -327,9 +326,15 @@ Networking is a core competency for IT pros. Passing the CompTIA A+ Core 1 (220-
 
 ### Course details
 
+CompTIA A+ (220-1001): Cert Prep is a comprehensive 10-part series designed to help IT professionals prepare for the CompTIA A+ Core 1 (220-1001) exam, which focuses on critical IT support tasks and essential troubleshooting skills. In this installment, CompTIA expert Mike Meyers reviews essential wireless networking concepts—from working with DNS to VLANs—to prepare you to take and pass the CompTIA A+ Core 1 (220-1001) exam. Learn all about special IP addresses (and when and how to use them), how port numbers do their job, and how to configure routers. Plus, get tips for reading symptoms and quickly troubleshooting a network, working with workgroups, performing a basic setup for a wireless access point (WAP), and more.
+
+
 
 
 ###  Learning objectives
+
+
+
 
 ###  Skills covered
 
