@@ -448,7 +448,7 @@ Cloud ownership
 
 
 
-> 
+> ![101010.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1620604109/101010.png)
 .
 
 --------------------
