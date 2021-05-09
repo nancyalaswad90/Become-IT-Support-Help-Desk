@@ -450,3 +450,26 @@ Cloud ownership
 
 > 
 .
+
+--------------------
+
+
+## Eleventh  Course : [CompTIA A+ (220-1001) Cert Prep 10: Printers](https://www.linkedin.com/learning/comptia-a-plus-220-1001-cert-prep-10-printers/introduction-to-printers?contextUrn=urn%3Ali%3AlyndaLearningPath%3A5ccb3ee3498e260c1c863895)
+
+
+
+
+###  Skills covered
+
+
+- Printer Support
+- Network Administration
+
+
+
+.
+
+
+>
+
+.
