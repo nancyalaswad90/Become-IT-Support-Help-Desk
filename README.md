@@ -387,7 +387,11 @@ CompTIA A+ (220-1001): Cert Prep is a comprehensive 10-part series designed to h
 
 
 
-## Ninth Course : [
+## Ninth Course : [CompTIA A+ (220-1001) Cert Prep 8: Internet and the Cloud](https://www.linkedin.com/learning/comptia-a-plus-220-1001-cert-prep-8-internet-and-the-cloud/introduction?contextUrn=urn%3Ali%3AlyndaLearningPath%3A5ccb3ee3498e260c1c863895)
+
+
+
+
 
 ### Course details
 
