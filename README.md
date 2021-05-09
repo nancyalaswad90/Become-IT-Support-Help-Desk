@@ -470,6 +470,12 @@ Cloud ownership
 .
 
 
->
+> ![1111111.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1620604109/1111111.png)
 
 .
+
+
+
+--------------------
+
+
