@@ -431,20 +431,22 @@ Cloud ownership
 
 
 
-## Tenth Course : [
-
-### Course details
+## Tenth Course : [CompTIA A+ (220-1001) Cert Prep 9: Portable Computing](https://www.linkedin.com/learning/comptia-a-plus-220-1001-cert-prep-9-portable-computing/course-overview-2?contextUrn=urn%3Ali%3AlyndaLearningPath%3A5ccb3ee3498e260c1c863895)
 
 
 
-###  Learning objectives
+
 
 ###  Skills covered
 
 
-
+- Mobile Devices
+- CompTIA
+- IT Management
 
 -
 
 
+
+> 
 .
