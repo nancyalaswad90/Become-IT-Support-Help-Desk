@@ -422,7 +422,7 @@ Cloud ownership
 .
 
 
->
+> ![99999.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1620604109/99999.png)
 
 .
 
@@ -448,7 +448,8 @@ Cloud ownership
 
 
 
-> ![101010.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1620604109/101010.png)
+> ![101010.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1620604254/101010.png)
+> 
 .
 
 --------------------
