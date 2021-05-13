@@ -397,15 +397,23 @@ CompTIA A+ (220-1001): Cert Prep is a comprehensive 10-part series designed to h
 ###  Learning objectives
 
 
-Internet tiers
-How dial-up and broadband connections work
-File Transfer Protocol (FTP)
-Classic email protocols
-Setting up a generic VPN
-Typical IoT setups and configurations
-Setting up a new virtual machine (VM)
-Networking with VMs
-Cloud ownership
+- Internet tiers
+
+- How dial-up and broadband connections work
+
+- File Transfer Protocol (FTP)
+
+- Classic email protocols
+
+- Setting up a generic VPN
+
+- Typical IoT setups and configurations
+
+- Setting up a new virtual machine (VM)
+
+- Networking with VMs
+
+- Cloud ownership
 
 
 
