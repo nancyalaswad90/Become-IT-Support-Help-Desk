@@ -479,23 +479,7 @@ Cloud ownership
 
 --------------------
 
-## Tenth Course : [
 
-### Course details
-
-
-
-###  Learning objectives
-
-###  Skills covered
-
-
-
-
-----------------------------------
-
-
--
 
 
 
