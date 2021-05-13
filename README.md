@@ -567,7 +567,7 @@ Cloud ownership
 .
 
 
->
+> ![13.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1620870826/13.png)
 
 
 .
