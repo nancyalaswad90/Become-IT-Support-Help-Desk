@@ -487,35 +487,24 @@ Cloud ownership
 ## The Twelve Course: [CompTIA A+ (220-1002) Cert Prep 1: Getting Started](https://www.linkedin.com/learning/comptia-a-plus-220-1002-cert-prep-1-getting-started/introduction-to-safety-and-professionalism?contextUrn=urn%3Ali%3AlyndaLearningPath%3A5ccb3ee3498e260c1c863895)
 
 
-### Course details
-
-
-
 ###  Learning objectives
 
-###  Skills covered
 
+- Learning objectives
 
+- Communication skills for technical professionals
 
+- Physical safety in the workplace
 
-----------------------------------
+- Troubleshooting theory
 
+- What is an operating system?
 
+- 32-bit vs. 64-bit processing
 
-## The thirteen Course
+- Virtual memory
 
-
-
-###  Learning objectives
-
-Learning objectives
-Communication skills for technical professionals
-Physical safety in the workplace
-Troubleshooting theory
-What is an operating system?
-32-bit vs. 64-bit processing
-Virtual memory
-Windows editions and versions
+- Windows editions and versions
 
 
 
@@ -528,6 +517,27 @@ Windows editions and versions
 
 .
 
+
+> ![12.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1620870645/12.png)
+> 
+.
+
+
+
+----------------------------------
+
+
+
+## The thirteen Course
+
+
+
+
+
+
+###  Learning objectives
+
+###  Skills covered
 
 
 
