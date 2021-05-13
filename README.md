@@ -484,7 +484,7 @@ Cloud ownership
 
 
 
-## The Twelve Course: [
+## The Twelve Course: [CompTIA A+ (220-1002) Cert Prep 1: Getting Started](https://www.linkedin.com/learning/comptia-a-plus-220-1002-cert-prep-1-getting-started/introduction-to-safety-and-professionalism?contextUrn=urn%3Ali%3AlyndaLearningPath%3A5ccb3ee3498e260c1c863895)
 
 
 ### Course details
@@ -504,13 +504,30 @@ Cloud ownership
 
 ## The thirteen Course
 
-### Course details
-
 
 
 ###  Learning objectives
 
+Learning objectives
+Communication skills for technical professionals
+Physical safety in the workplace
+Troubleshooting theory
+What is an operating system?
+32-bit vs. 64-bit processing
+Virtual memory
+Windows editions and versions
+
+
+
 ###  Skills covered
+
+- System Administration
+- CompTIA
+- Operating Systems
+
+
+.
+
 
 
 
