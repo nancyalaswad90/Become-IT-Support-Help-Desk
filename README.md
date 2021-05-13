@@ -69,7 +69,7 @@ We are a CompTIA Partner. As such, we are able to offer CompTIA exam vouchers at
 
 .
 
-> ![he Basics.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1618587797/he_Basics.png)
+> ![000000.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1620878553/000000.png)
 > 
 
 .
