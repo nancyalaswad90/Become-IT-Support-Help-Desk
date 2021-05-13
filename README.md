@@ -538,14 +538,21 @@ Cloud ownership
 ###  Learning objectives
 
 
-Basic electrical terminology
-Protecting PCs using tools such as surge suppressors
-MBR and GPT partitioning
-Formatting mass storage
-Setting up an initial drive and installing an OS
-Encrypting mass storage
-Hardware requirements for common systems
-Installing Windows
+- Basic electrical terminology
+
+- Protecting PCs using tools such as surge suppressors
+
+- MBR and GPT partitioning
+
+- Formatting mass storage
+
+- Setting up an initial drive and installing an OS
+
+- Encrypting mass storage
+
+- Hardware requirements for common systems
+
+- Installing Windows
 
 
 
