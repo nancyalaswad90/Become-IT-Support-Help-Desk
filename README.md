@@ -528,7 +528,7 @@ Cloud ownership
 
 
 
-## The thirteen Course
+## The thirteen Course : [CompTIA A+ (220-1002) Cert Prep 2: Implementation Considerations](https://www.linkedin.com/learning/comptia-a-plus-220-1002-cert-prep-2-implementation-considerations/implementation-considerations?contextUrn=urn%3Ali%3AlyndaLearningPath%3A5ccb3ee3498e260c1c863895)
 
 
 
@@ -537,11 +537,33 @@ Cloud ownership
 
 ###  Learning objectives
 
+
+Basic electrical terminology
+Protecting PCs using tools such as surge suppressors
+MBR and GPT partitioning
+Formatting mass storage
+Setting up an initial drive and installing an OS
+Encrypting mass storage
+Hardware requirements for common systems
+Installing Windows
+
+
+
+
 ###  Skills covered
 
+- IT Operations
+- Security
+- Software Installation
+- Operating Systems
+
+.
 
 
+>
 
+
+.
 ----------------------------------
 
 
