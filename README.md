@@ -622,15 +622,24 @@ Backing up your files
 
 
 
-## The Fifteen Course
+## The Fifteen Course : [CompTIA A+ (220-1002) Cert Prep 4: Command-Line Interface and Scripting Languages](https://www.linkedin.com/learning/comptia-a-plus-220-1002-cert-prep-4-command-line-interface-and-scripting-languages/intro-to-command-line-interface-and-scripting?contextUrn=urn%3Ali%3AlyndaLearningPath%3A5ccb3ee3498e260c1c863895)
 
 ### Course details
 
 
 
-###  Learning objectives
 
 ###  Skills covered
+
+- File Management 
+
+- CompTIA
+
+- CLI
+
+
+.
+
 
 
 
