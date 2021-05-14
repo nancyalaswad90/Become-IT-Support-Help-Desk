@@ -583,15 +583,36 @@ CompTIA A+ (220-1001): Cert Prep is a comprehensive 10-part series designed to h
 
 
 
-## The Fourteen Course
+## The Fourteen Course : [CompTIA A+ (220-1002): Cert Prep 3 Windows and More](https://www.linkedin.com/learning/comptia-a-plus-220-1002-cert-prep-3-windows-and-more/windows-and-more?contextUrn=urn%3Ali%3AlyndaLearningPath%3A5ccb3ee3498e260c1c863895)
 
-### Course details
+
 
 
 
 ###  Learning objectives
 
+What is the Registry?
+Working with the Windows 7 and Windows 10 Task Manager
+Using Performance Monitor and Event Viewer
+Managing users and groups
+Linux and macOS permissions
+Security policies
+Working with disks and applications
+Backing up your files
+
+
+
+
 ###  Skills covered
+
+- Windows System Administration 
+
+- CompTIA
+
+
+
+.
+
 
 
 
