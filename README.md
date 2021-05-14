@@ -591,14 +591,23 @@ CompTIA A+ (220-1001): Cert Prep is a comprehensive 10-part series designed to h
 
 ###  Learning objectives
 
-What is the Registry?
-Working with the Windows 7 and Windows 10 Task Manager
-Using Performance Monitor and Event Viewer
-Managing users and groups
-Linux and macOS permissions
-Security policies
-Working with disks and applications
-Backing up your files
+
+- What is the Registry?
+
+
+- Working with the Windows 7 and Windows 10 Task Manager
+
+- Using Performance Monitor and Event Viewer
+
+- Managing users and groups
+
+- Linux and macOS permissions
+
+- Security policies
+
+- Working with disks and applications
+
+- Backing up your files
 
 
 
