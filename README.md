@@ -666,9 +666,9 @@ CompTIA A+ (220-1001): Cert Prep is a comprehensive 10-part series designed to h
 
 
 
-## The Sixteen Course
+## The Sixteen Course : [CompTIA A+ (220-1002): Cert Prep 5 Troubleshooting Operating Systems](https://www.linkedin.com/learning/comptia-a-plus-220-1002-cert-prep-5-troubleshooting-operating-systems/welcome-to-troubleshooting-operating-systems?contextUrn=urn%3Ali%3AlyndaLearningPath%3A5ccb3ee3498e260c1c863895)
 
-### Course details
+
 
 
 
