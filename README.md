@@ -687,7 +687,7 @@ CompTIA A+ (220-1001): Cert Prep is a comprehensive 10-part series designed to h
 
 .
 
-> 
+> ![161616](https://user-images.githubusercontent.com/36210723/118348508-7d0f4d80-b553-11eb-9a48-0b0e5682462f.png)
 
 .
 
