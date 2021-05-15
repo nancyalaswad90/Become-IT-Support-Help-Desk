@@ -673,11 +673,23 @@ CompTIA A+ (220-1001): Cert Prep is a comprehensive 10-part series designed to h
 
 
 
-
-
 ###  Skills covered
 
 
+- Software Troubleshooting
+
+- CompTIA
+
+- Operating System Administration
+
+
+
+
+.
+
+> 
+
+.
 
 
 
