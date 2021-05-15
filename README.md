@@ -699,15 +699,22 @@ CompTIA A+ (220-1001): Cert Prep is a comprehensive 10-part series designed to h
 
 ## The Seventeen Course : [CompTIA A+ (220-1002) Cert Prep 6: Networking, Security, and More](https://www.linkedin.com/learning/comptia-a-plus-220-1002-cert-prep-6-networking-security-and-more/welcome?contextUrn=urn%3Ali%3AlyndaLearningPath%3A5ccb3ee3498e260c1c863895)
 
-### Course details
 
-
-
-###  Learning objectives
 
 ###  Skills covered
 
+- CompTIA
 
+- Computer Hardware Troubleshooting
+
+- Network Administration
+
+
+.
+
+> 
+
+.
 
 ----------------------------------
 
