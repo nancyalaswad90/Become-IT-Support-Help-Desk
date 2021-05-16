@@ -12,8 +12,7 @@
 This learning path provides system administrators with a comprehensive method for studying the skills tested in the CompTIA A+ (220-1001 and 220-1002) exams. It includes in-depth courses teaching skills from each exam domain and provides insights into resources you can use to prepare for the exam.
 
 
-These Total Seminars courses cover the topics tested on the CompTIA A+ certification exams. For information on additional study resources—including practice tests, lab simulations, books, and discounted exam vouchers—visit totalsem.com/linkedin. LinkedIn Learning members receive special pricing.
-
+These Total Seminars courses cover the topics tested on the CompTIA A+ certification exams. 
 
 
 
@@ -50,11 +49,9 @@ These Total Seminars courses cover the topics tested on the CompTIA A+ certifica
 
 CompTIA A+ is a top certification for anyone looking to jump-start a career in IT. In this concise course, learn what this certification can do for your career, and what it takes to pass the two required CompTIA A+ exams on your first attempt. Instructor Mike Meyers steps through the exam process and shares a solid strategy for prepping for the tests. In addition, he goes over the main subject areas covered on the Core 1 (220-1001) and Core 2 (220-1002) exams, both of which you must pass to become CompTIA A+ certified.
 
-This Total Seminars course covers the exam certification topics. For information on additional study resources—including practice tests, lab simulations, books, and discounted exam vouchers—visit totalsem.com/linkedin. LinkedIn Learning members receive special pricing.
 
-This course was created by Total Seminars. We are pleased to offer this training in our library.
 
-We are a CompTIA Partner. As such, we are able to offer CompTIA exam vouchers at a 10% discount. For more information on how to obtain this discount, please download these PDF instructions.
+.
 
 
 
