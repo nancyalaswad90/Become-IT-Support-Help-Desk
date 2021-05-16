@@ -742,15 +742,13 @@ CompTIA A+ (220-1001): Cert Prep is a comprehensive 10-part series designed to h
 ----------------------------------
 
 
-## The Nineteen Course
-
-### Course details
+## The Nineteen Course : [CompTIA A+ (220-1002) Cert Prep 8: Security and Organization](https://www.linkedin.com/learning/comptia-a-plus-220-1002-cert-prep-8-security-and-organization/course-overview?contextUrn=urn%3Ali%3AlyndaLearningPath%3A5ccb3ee3498e260c1c863895)
 
 
 
-###  Learning objectives
+
 
 ###  Skills covered
 
 
-
+- System AdministrationNetwork SecurityIT Management
